@@ -1,0 +1,28 @@
+# Dataset (CC BY-NC-ND 4.0) - nunca versionar
+data/
+*.zip
+*.kaggle-partial
+
+# Recortes gerados
+digits/
+
+# Checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Pacote de exportação do Colab
+entrega/
+entrega.zip
+
+# Credenciais
+kaggle.json
+access_token
+.kaggle/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
