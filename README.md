@@ -1,7 +1,7 @@
-# [Nome do grupo] — Classificação de Dígitos de Hidrômetros com AlexNet, VGG16 e ResNet
+# Pedro Soares Pereira e João Pedro Lins — Classificação de Dígitos de Hidrômetros com AlexNet, VGG16 e ResNet
 
 **Disciplina:** Visão Computacional (VC001) — CESAR School, 2026.2
-**Integrantes:** [Nome 1 (e-mail)] · [Nome 2 (e-mail)] · [Nome 3 (e-mail)]
+**Integrantes:** Pedro Soares Pereira (psp2@cesar.school) · João Pedro Lins (jplld@cesar.school)
 
 ## Fonte dos dados e licença
 
